@@ -1,4 +1,4 @@
-# Lolita Framework - HTML Helpers
+# Lolita Framework - Snippets
 
 > **Widget Interfaces** - HTML block which is using a set of variables
 
