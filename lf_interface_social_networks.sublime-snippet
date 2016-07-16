@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!-- lf_interface_social_networks -->
+<div class="widget lf_interface_social_networks">
+	<!-- Array of: { (link), (icon_class) } -->
+</div>
+<!-- /lf_interface_social_networks -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_interface_social_networks</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Interface - Social Networks</description>
+</snippet>
+
+

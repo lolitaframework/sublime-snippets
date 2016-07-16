@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<nav class="menu-menu_name-container">
+    <ul class="menu">
+        <li class="menu-item"><a href="#">Menu Item 1</a></li>
+    </ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_template_menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Template - WordPress Menu</description>
+</snippet>

@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<article>
+    <header class="entry-header">
+        <div class="entry-meta">
+            <!-- entry meta -->
+        </div>
+    </header>
+    <div class="entry-content">
+        <!-- entry content -->
+    </div>
+    <footer class="entry-footer">
+        <!-- entry  -->
+    </footer>
+</article>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_template_article</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Template - Article</description>
+</snippet>
+
