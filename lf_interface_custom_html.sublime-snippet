@@ -1,13 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<!-- lf_interface_custom_html -->
-<div class="widget lf_interface_custom_html">
-    <!-- { (custom_html) } -->
+<!-- lf_custom_html -->
+<div class="widget lf_custom_html __widget_modificator">
+    <!-- { [custom_html] } -->
 </div>
-<!-- /lf_interface_custom_html -->
+<!-- /lf_custom_html -->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>lf_interface_custom_html</tabTrigger>
+	<tabTrigger>lf_custom_html</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 	<description>Lolita Interface - Custom HTML</description>

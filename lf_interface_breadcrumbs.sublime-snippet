@@ -1,13 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<!-- lf_interface_breadcrumbs -->
-<div class="widget lf_interface_breadcrumbs">
-    <!-- Array of: { (name), (link) } -->
+<!-- lf_breadcrumbs -->
+<div class="widget lf_breadcrumbs __widget_modificator">
+    <!-- Array of: { [name], [link] } -->
 </div>
-<!-- /lf_interface_breadcrumbs -->
+<!-- /lf_breadcrumbs -->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>lf_interface_breadcrumbs</tabTrigger>
+	<tabTrigger>lf_breadcrumbs</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 	<description>Lolita Interface - Breadcrumbs</description>

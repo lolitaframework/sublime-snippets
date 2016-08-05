@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<span class="lf_subscribe_style1__success-message" style="display:none;">success</span>
-<span class="lf_subscribe_style1__error-message" style="display:none;">error</span>
-<div class="lf_subscribe_style1__container">
+<span class="lf_subscribe__success-message" style="display:none;">success</span>
+<span class="lf_subscribe__error-message" style="display:none;">error</span>
+<div class="lf_subscribe__container">
     <form class="" action="/" method="post" accept-charset="utf-8">
-        <input type="email" name="" required="required" class="" placeholder="">
-        <input type="submit" name="" value="Versturen">
+        <input type="email" name="" required="required" class="lf_subscribe__email" placeholder="">
+        <input type="submit" name="" class="lf_subscribe__submit" value="Versturen">
     </form>
 </div>
 ]]></content>
