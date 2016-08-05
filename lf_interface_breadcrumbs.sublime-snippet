@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- lf_breadcrumbs -->
+<div class="widget lf_breadcrumbs __widget_modificator">
+    <!-- Array of: { [name], [link] } -->
+</div>
+<!-- /lf_breadcrumbs -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_breadcrumbs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Interface - Breadcrumbs</description>
+</snippet>

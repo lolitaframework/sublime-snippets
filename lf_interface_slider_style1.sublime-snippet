@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!-- lf_slider -->
+<div class="widget lf_slider __widget_modificator">
+    <!-- Array of: { [image_src], [title], [sub_title], [link] } -->
+</div>
+<!-- /lf_slider -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_slider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Interface - Slider/Carousel</description>
+</snippet>
+
+
+

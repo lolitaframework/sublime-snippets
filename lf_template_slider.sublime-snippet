@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<ul class="">
+    <li class="" style="background-image: url('');">
+        <span class="">Logo</span>
+    </li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_template_slider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Template - Slider/Carousel</description>
+</snippet>
+

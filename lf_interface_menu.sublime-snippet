@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!-- lf_menu -->
+<div class="widget __widget_modificator">
+    <!-- [menu_name], Array of: { [label], [link], [user_class] } -->
+    <nav class="menu-[menu_name]-container">
+        <ul class="menu">
+            <li class="menu-item"><a href="#">Menu Item 1</a></li>
+        </ul>
+    </nav>
+</div>
+<!-- /lf_menu -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Interface - Menu</description>
+</snippet>
+

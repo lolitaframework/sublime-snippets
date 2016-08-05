@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" style="background-image:url('');"></a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_template_logo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Template - Logo</description>
+</snippet>
+

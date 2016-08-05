@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<form role="search" method="get" class="search-form" action="/">
+    <label>
+        <input type="search" class="search-field" placeholder="" value="" name="s" autocomplete="off">
+        <input type="submit" name="submit" value="">
+    </label>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lf_template_search</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>Lolita Template - Search</description>
+</snippet>
